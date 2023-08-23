@@ -1,0 +1,16 @@
+{
+  "firstName": "Maya",
+  "lastName": "Sivkova",
+  "gender": "woman",
+  "age": 29,
+  "address": {
+    "country": "Russia",
+    "region": "Irkutsk area",
+    "city": "Bratsk",
+    "postalCode": "123456"
+  },
+  "contacts": [
+    "0987654321",
+    "kyattonippu"
+  ]
+}
